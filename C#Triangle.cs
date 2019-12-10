@@ -49,24 +49,25 @@ class Program
         // Console.WriteLine("Its is a " + answer + " triangle.");
 
         int [] userSide = {side1Length, side2Length, side3Length};
-        
-        if (userSide[0] == userSide[1] && userSide[0] != userSide[2])
-            {
-                Console.WriteLine("This is an Isoceles Triangle");
-            }
+    
 
-        else if (userSide[0] != userSide[1] && userSide[0] != userSide[2] && userSide[1] != userSide[2])
+        if (userSide[0] != userSide[1] && userSide[0] != userSide[2] && userSide[1] != userSide[2])
             {
                 Console.WriteLine("This is an Scalene Triangle");
             }
+
          else if (userSide[0] == userSide[1] && userSide[0] == userSide[2] && userSide[1] == userSide[2])
             {
                 Console.WriteLine("This is an Equilateral Triangle");
             }
-            
-         else if (userSide[0] + userSide[1] <= userSide[2] || userSide[1] + userSide[2] <= userSide[2] || userSide[2] + userSide[0] <= userSide[1])
+
+         else if (userSide[0] + userSide[1] <= userSide[2] || userSide[1] + userSide[2] <= userSide[0] || userSide[2] + userSide[0] <= userSide[1])
             {
                 Console.WriteLine("This is not a Triangle");
+            }
+         else if (userSide[0] == userSide[1] && userSide[0] != userSide[2])
+            {
+                Console.WriteLine("This is an Isoceles Triangle");
             }
 
             
