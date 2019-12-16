@@ -2,3 +2,16 @@
 /Users/Guest/Desktop/C-TriangleTracker.Solution/TriangleTracker.Tests/obj/Debug/netcoreapp2.2/TrangleTracker.Tests.csproj.CoreCompileInputs.cache
 /Users/Guest/Desktop/C-TriangleTracker.Solution/TriangleTracker.Tests/obj/Debug/netcoreapp2.2/TrangleTracker.Tests.AssemblyInfoInputs.cache
 /Users/Guest/Desktop/C-TriangleTracker.Solution/TriangleTracker.Tests/obj/Debug/netcoreapp2.2/TrangleTracker.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/C-TriangleTracker.Solution/TriangleTracker.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/C-TriangleTracker.Solution/TriangleTracker.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/C-TriangleTracker.Solution/TriangleTracker.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/C-TriangleTracker.Solution/TriangleTracker.Tests/bin/Debug/netcoreapp2.2/TrangleTracker.Tests.deps.json
+/Users/Guest/Desktop/C-TriangleTracker.Solution/TriangleTracker.Tests/bin/Debug/netcoreapp2.2/TrangleTracker.Tests.runtimeconfig.json
+/Users/Guest/Desktop/C-TriangleTracker.Solution/TriangleTracker.Tests/bin/Debug/netcoreapp2.2/TrangleTracker.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/C-TriangleTracker.Solution/TriangleTracker.Tests/bin/Debug/netcoreapp2.2/TrangleTracker.Tests.dll
+/Users/Guest/Desktop/C-TriangleTracker.Solution/TriangleTracker.Tests/bin/Debug/netcoreapp2.2/TrangleTracker.Tests.pdb
+/Users/Guest/Desktop/C-TriangleTracker.Solution/TriangleTracker.Tests/bin/Debug/netcoreapp2.2/TriangleTracker.dll
+/Users/Guest/Desktop/C-TriangleTracker.Solution/TriangleTracker.Tests/bin/Debug/netcoreapp2.2/TriangleTracker.pdb
+/Users/Guest/Desktop/C-TriangleTracker.Solution/TriangleTracker.Tests/obj/Debug/netcoreapp2.2/TrangleTracker.Tests.csproj.CopyComplete
+/Users/Guest/Desktop/C-TriangleTracker.Solution/TriangleTracker.Tests/obj/Debug/netcoreapp2.2/TrangleTracker.Tests.dll
+/Users/Guest/Desktop/C-TriangleTracker.Solution/TriangleTracker.Tests/obj/Debug/netcoreapp2.2/TrangleTracker.Tests.pdb

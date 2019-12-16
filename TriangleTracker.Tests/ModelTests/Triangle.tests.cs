@@ -12,7 +12,7 @@ namespace TriangleCode.Tests
     {
         Triangle testTriangle = new Triangle(3,4,5);
         // any necessary logic to prep for test; instantiating new classes, etc.
-        Assert.AreEqual("This is a Scalene Triangle", testTriangle.Calc(3,4,5));
+        Assert.AreEqual("This is a Scalene Triangle", Triangle.Calc(3,4,5));
     }
   }
 }
